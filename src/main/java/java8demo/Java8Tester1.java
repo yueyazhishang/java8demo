@@ -1,7 +1,7 @@
 package java8demo;
 
 /**
- * @Auther: lizhanxiang@passiontec.cn
+ * @Auther: yueyazhishang@outlook.com
  * @Date: 2018-06-01 19:11
  * @Description:
  */
